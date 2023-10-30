@@ -10,9 +10,9 @@ Aqui está o [link para o Mapa Mental](https://github.com/samihenrique/aplicacoe
 
 Se surgir qualquer dúvida ou se quiserem trocar uma ideia, sinta-se à vontade para me contatar! Aqui estão algumas maneiras de fazer isso:
 
-- **LinkedIn**: [Samir Henrique](https://www.linkedin.com/in/samihenrique/)
+- **LinkedIn**: [Sami Henrique](https://www.linkedin.com/in/samihenrique/)
 - **YouTube**: [Dev Estranho](https://www.youtube.com/@devestranho)
-- **Instagram**: [Samir Henrique](https://www.instagram.com/samihenrique/)
+- **Instagram**: [Sami Henrique](https://www.instagram.com/samihenrique/)
 
 Estou sempre à disposição para ajudar e esclarecer qualquer questionamento. Além disso, se tiverem sugestões ou feedbacks, serão sempre bem-vindos!
 
