@@ -4,7 +4,7 @@ Primeiramente, quero agradecer a todos que vieram através da live da **HCode**!
 
 ### Mapa Mental 🧠
 
-Aqui está o [link para o Mapa Mental](https://github.com/samihenrique/aplicacoes-alto-volume-de-acesso/blob/main/Produtos%20de%20Alto%20Volume%20de%20Acessos.xmind) que foi utilizado durante a apresentação. Foi criado utilizando o programa XMind, uma excelente ferramenta que auxilia na organização de ideias e conceitos!
+Aqui está o [link para o Mapa Mental](https://github.com/samihenrique/aplicacoes-alto-volume-de-acesso/blob/main/Produtos%20de%20Alto%20Volume%20de%20Acessos.xmind) que foi utilizado durante a apresentação. Ele foi criado usando o XMind, uma excelente ferramenta que auxilia na organização de ideias e conceitos. Você pode baixar o XMind [aqui](https://xmind.app/).
 
 ### Contato e Dúvidas 💬
 
